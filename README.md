@@ -2,4 +2,6 @@
 
 ## つかいかた
 
-`git clone https://github.com/keisei1092/ruby-sinatra-lessons16`
+```sh
+git clone https://github.com/keisei1092/ruby-sinatra-lessons16
+```
